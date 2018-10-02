@@ -6,7 +6,7 @@
   "date": "2018/10/02",
   "description": "Removes some noisy event types, hopefully leaving more essential events.",
   "display_name": "Reduced Unit Alerts",
-  "forum": "",
+  "forum": "https://forums.planetaryannihilation.com/threads/rel-reduced-unit-alerts.73162/",
   "identifier": "com.wondible.pa.reduced_unit_alerts",
   "scenes": {
     "live_game_unit_alert": [
